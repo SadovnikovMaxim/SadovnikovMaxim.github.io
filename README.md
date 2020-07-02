@@ -3,4 +3,4 @@
 
 В работе используется валидация в HTML, с помощью регулярных выражений
 
-https://github.com/SadovnikovMaxim/SadovnikovMaxim.github.io
+[https://github.com/SadovnikovMaxim/SadovnikovMaxim.github.io]
