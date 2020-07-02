@@ -1,2 +1,7 @@
-# https://github.com/SadovnikovMaxim/SadovnikovMaxim.github.io
-# Version: v.0.0.2
+
+Форма валидации регулярными выражениями
+Версия 0.0.3
+
+В работе используется валидация в HTML, с помощью регулярных выражений
+
+[https://sadovnikovmaxim.github.io/]
