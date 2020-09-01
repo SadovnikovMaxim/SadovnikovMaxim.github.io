@@ -5,4 +5,4 @@
 
 В работе используется валидация в HTML, с помощью регулярных выражений
 
-[https://sadovnikovmaxim.github.io/]
+https://sadovnikovmaxim.github.io/regularExp/
